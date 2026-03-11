@@ -1,7 +1,7 @@
-import ClaudeSHfinal from "./ClaudeSHfinal";
+import Claudeexp5 from "./claudeexp5";
 
 function App() {
-  return <ClaudeSHfinal />;
+  return <Claudeexp5 />;
 }
 
 export default App;
