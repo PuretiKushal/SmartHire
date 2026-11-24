@@ -99,9 +99,10 @@ This project was developed collaboratively by:
 | Kushal Pureti | [@PuretiKushal](https://github.com/PuretiKushal) |
 | Bhanuprakash Maliappala Naidu Polimera | [@pbmnaidu](https://github.com/pbmnaidu) |
 | Dinesh Polimera | [@pdineshsampathram-spec](https://github.com/pdineshsampathram-spec) |
-| Vaibhav Ranga Sai | — |
-| Yerra Prasanna | — |
+| Yerra Prasanna | [@prassu-codes](https://github.com/prassu-codes) |
 | Yenneti Jahnavi | [@yennetijahnavi-AI28](https://github.com/yennetijahnavi-AI28) |
+| Vaibhav Ranga Sai | [@vaibhav28-eng](https://github.com/vaibhav28-eng) |
+
 
 ## Acknowledgements
 
